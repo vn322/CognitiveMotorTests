@@ -1,4 +1,4 @@
-# report.py (исправленная версия с корректным анализом базовых реакций)
+# report.py 
 import sys
 import os
 import json
