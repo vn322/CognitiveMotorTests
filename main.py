@@ -1,4 +1,4 @@
-# main.py - чистый интерфейс с читаемым текстом
+# main.py 
 import sys
 import os
 import random
